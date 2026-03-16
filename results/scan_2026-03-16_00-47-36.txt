@@ -1,0 +1,13 @@
+Host: 45.33.32.156 (scanme.nmap.org)
+State: up
+Protocol: tcp
+Port: 22 | State: open | Service: ssh | Version: OpenSSH 6.6.1p1 Ubuntu 2ubuntu2.13
+Port: 25 | State: filtered | Service: smtp | Version: 
+Port: 80 | State: open | Service: http | Version: Apache httpd 2.4.7
+Port: 135 | State: filtered | Service: msrpc | Version: 
+Port: 139 | State: filtered | Service: netbios-ssn | Version: 
+Port: 445 | State: filtered | Service: microsoft-ds | Version: 
+Port: 593 | State: filtered | Service: http-rpc-epmap | Version: 
+Port: 9929 | State: open | Service: nping-echo | Version: Nping echo
+Port: 12345 | State: filtered | Service: netbus | Version: 
+Port: 31337 | State: open | Service: tcpwrapped | Version: 
